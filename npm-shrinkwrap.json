@@ -1,6 +1,6 @@
 {
   "name": "@freeclimb/sdk",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "lockfileVersion": 1,
   "requires": true,
   "dependencies": {
@@ -317,12 +317,6 @@
           "integrity": "sha512-sY5AXXVZv4Y1VACTtR11UJCPHHudgY5i26Qj5TypE6DKlIApbwb5uqhXcJ5UUGbvZNRh7EeIoW+LrJumBsKp7w==",
           "dev": true
         },
-        "acorn": {
-          "version": "5.7.3",
-          "resolved": "https://registry.npmjs.org/acorn/-/acorn-5.7.3.tgz",
-          "integrity": "sha512-T/zvzYRfbVojPWahDsE5evJdHb3oJoQfFbsrKM7w5Zcs++Tr257tia3BmMP8XYVjp1S9RZXQMh7gao96BlqZOw==",
-          "dev": true
-        },
         "acorn-globals": {
           "version": "4.3.2",
           "resolved": "https://registry.npmjs.org/acorn-globals/-/acorn-globals-4.3.2.tgz",
@@ -334,9 +328,9 @@
           },
           "dependencies": {
             "acorn": {
-              "version": "6.1.1",
-              "resolved": "https://registry.npmjs.org/acorn/-/acorn-6.1.1.tgz",
-              "integrity": "sha512-jPTiwtOxaHNaAPg/dmrJ/beuzLRnXtB0kQPQ8JpotKJgTB6rX6c8mlf315941pyjBSaPg8NHXS9fhP4u17DpGA==",
+              "version": "6.4.1",
+              "resolved": "https://registry.npmjs.org/acorn/-/acorn-6.4.1.tgz",
+              "integrity": "sha512-ZVA9k326Nwrj3Cj9jlh3wGFutC2ZornPNARZwsNYqQYgN0EsV2d53w5RN/co65Ohn4sUAUtb1rSUAOD6XN9idA==",
               "dev": true
             }
           }
@@ -2451,12 +2445,6 @@
           "integrity": "sha512-sY5AXXVZv4Y1VACTtR11UJCPHHudgY5i26Qj5TypE6DKlIApbwb5uqhXcJ5UUGbvZNRh7EeIoW+LrJumBsKp7w==",
           "dev": true
         },
-        "acorn": {
-          "version": "5.7.3",
-          "resolved": "https://registry.npmjs.org/acorn/-/acorn-5.7.3.tgz",
-          "integrity": "sha512-T/zvzYRfbVojPWahDsE5evJdHb3oJoQfFbsrKM7w5Zcs++Tr257tia3BmMP8XYVjp1S9RZXQMh7gao96BlqZOw==",
-          "dev": true
-        },
         "acorn-globals": {
           "version": "4.3.2",
           "resolved": "https://registry.npmjs.org/acorn-globals/-/acorn-globals-4.3.2.tgz",
@@ -2468,9 +2456,9 @@
           },
           "dependencies": {
             "acorn": {
-              "version": "6.1.1",
-              "resolved": "https://registry.npmjs.org/acorn/-/acorn-6.1.1.tgz",
-              "integrity": "sha512-jPTiwtOxaHNaAPg/dmrJ/beuzLRnXtB0kQPQ8JpotKJgTB6rX6c8mlf315941pyjBSaPg8NHXS9fhP4u17DpGA==",
+              "version": "6.4.1",
+              "resolved": "https://registry.npmjs.org/acorn/-/acorn-6.4.1.tgz",
+              "integrity": "sha512-ZVA9k326Nwrj3Cj9jlh3wGFutC2ZornPNARZwsNYqQYgN0EsV2d53w5RN/co65Ohn4sUAUtb1rSUAOD6XN9idA==",
               "dev": true
             }
           }
@@ -4272,12 +4260,6 @@
           "integrity": "sha512-sY5AXXVZv4Y1VACTtR11UJCPHHudgY5i26Qj5TypE6DKlIApbwb5uqhXcJ5UUGbvZNRh7EeIoW+LrJumBsKp7w==",
           "dev": true
         },
-        "acorn": {
-          "version": "5.7.3",
-          "resolved": "https://registry.npmjs.org/acorn/-/acorn-5.7.3.tgz",
-          "integrity": "sha512-T/zvzYRfbVojPWahDsE5evJdHb3oJoQfFbsrKM7w5Zcs++Tr257tia3BmMP8XYVjp1S9RZXQMh7gao96BlqZOw==",
-          "dev": true
-        },
         "acorn-globals": {
           "version": "4.3.2",
           "resolved": "https://registry.npmjs.org/acorn-globals/-/acorn-globals-4.3.2.tgz",
@@ -4289,9 +4271,9 @@
           },
           "dependencies": {
             "acorn": {
-              "version": "6.1.1",
-              "resolved": "https://registry.npmjs.org/acorn/-/acorn-6.1.1.tgz",
-              "integrity": "sha512-jPTiwtOxaHNaAPg/dmrJ/beuzLRnXtB0kQPQ8JpotKJgTB6rX6c8mlf315941pyjBSaPg8NHXS9fhP4u17DpGA==",
+              "version": "6.4.1",
+              "resolved": "https://registry.npmjs.org/acorn/-/acorn-6.4.1.tgz",
+              "integrity": "sha512-ZVA9k326Nwrj3Cj9jlh3wGFutC2ZornPNARZwsNYqQYgN0EsV2d53w5RN/co65Ohn4sUAUtb1rSUAOD6XN9idA==",
               "dev": true
             }
           }
@@ -7262,9 +7244,9 @@
       "dev": true
     },
     "acorn": {
-      "version": "6.1.1",
-      "resolved": "https://registry.npmjs.org/acorn/-/acorn-6.1.1.tgz",
-      "integrity": "sha512-jPTiwtOxaHNaAPg/dmrJ/beuzLRnXtB0kQPQ8JpotKJgTB6rX6c8mlf315941pyjBSaPg8NHXS9fhP4u17DpGA==",
+      "version": "5.7.4",
+      "resolved": "https://registry.npmjs.org/acorn/-/acorn-5.7.4.tgz",
+      "integrity": "sha512-1D++VG7BhrtvQpNbBzovKNc1FLGGEE/oGe7b9xJm/RFHMBeUaUGpluV9RLjZa47YFdPcDAenEYuq9pQPcMdLJg==",
       "dev": true
     },
     "acorn-jsx": {
@@ -8661,6 +8643,14 @@
         "acorn": "^6.0.2",
         "acorn-jsx": "^5.0.0",
         "eslint-visitor-keys": "^1.0.0"
+      },
+      "dependencies": {
+        "acorn": {
+          "version": "6.4.1",
+          "resolved": "https://registry.npmjs.org/acorn/-/acorn-6.4.1.tgz",
+          "integrity": "sha512-ZVA9k326Nwrj3Cj9jlh3wGFutC2ZornPNARZwsNYqQYgN0EsV2d53w5RN/co65Ohn4sUAUtb1rSUAOD6XN9idA==",
+          "dev": true
+        }
       }
     },
     "esprima": {
@@ -9361,12 +9351,6 @@
           "integrity": "sha512-sY5AXXVZv4Y1VACTtR11UJCPHHudgY5i26Qj5TypE6DKlIApbwb5uqhXcJ5UUGbvZNRh7EeIoW+LrJumBsKp7w==",
           "dev": true
         },
-        "acorn": {
-          "version": "5.7.3",
-          "resolved": "https://registry.npmjs.org/acorn/-/acorn-5.7.3.tgz",
-          "integrity": "sha512-T/zvzYRfbVojPWahDsE5evJdHb3oJoQfFbsrKM7w5Zcs++Tr257tia3BmMP8XYVjp1S9RZXQMh7gao96BlqZOw==",
-          "dev": true
-        },
         "acorn-globals": {
           "version": "4.3.2",
           "resolved": "https://registry.npmjs.org/acorn-globals/-/acorn-globals-4.3.2.tgz",
@@ -9378,9 +9362,9 @@
           },
           "dependencies": {
             "acorn": {
-              "version": "6.1.1",
-              "resolved": "https://registry.npmjs.org/acorn/-/acorn-6.1.1.tgz",
-              "integrity": "sha512-jPTiwtOxaHNaAPg/dmrJ/beuzLRnXtB0kQPQ8JpotKJgTB6rX6c8mlf315941pyjBSaPg8NHXS9fhP4u17DpGA==",
+              "version": "6.4.1",
+              "resolved": "https://registry.npmjs.org/acorn/-/acorn-6.4.1.tgz",
+              "integrity": "sha512-ZVA9k326Nwrj3Cj9jlh3wGFutC2ZornPNARZwsNYqQYgN0EsV2d53w5RN/co65Ohn4sUAUtb1rSUAOD6XN9idA==",
               "dev": true
             }
           }
