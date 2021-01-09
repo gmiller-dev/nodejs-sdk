@@ -1,6 +1,7 @@
 declare module '@freeclimb/sdk' {
   export namespace FreeClimb {
     namespace API {
+
       export interface IncomingNumber {
         uri: string
         dateCreated: string
